@@ -10,5 +10,6 @@ h2 {font-size: 1.4 rem !important; font-size: calc(1.25rem + 4px) !important;
 		line-height: 125% !important; line-height: calc(1.25rem * 1.052 + 1.052 + 4px + 5px) !important}
 h3 {font-size: 1.17 rem !important; font-size: calc(1.0625rem + 2px) !important;
 		line-height: 130% !important; line-height: calc(1.0625rem * 1.052 + 2px * 1.052 + 5px) !important}
-sup, sub{line-height: 1 !important; font-size: 0.6875rem; font-size: calc(1rem - 5px) !important;}
+sup, sub{line-height: 1 !important; font-size: 0.6875rem !important; font-size: calc(1rem - 5px) !important;}
+/* small {font-size: 0.9 rem !important; font-size: calc(0.95 rem - 1px) !important} */
 /*ESI core end*/
