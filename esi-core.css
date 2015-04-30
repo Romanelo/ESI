@@ -1,4 +1,9 @@
-/* ESI 2.5.3 core */
+/* ESI core v2.5.4 */
+/* Author: Danila Isakov ◀http://dreamject.org▶ */
+/* Most actual version: https://github.com/dreamject/ESI/blob/master/esi-core.css */
+/* ESI (eyes-saving interface) is a project that allows you to improve quality of vision, */
+/* prevent yourself from myopia progression (and, if possible, to reduce it), improve your posture and readability*/
+/* Get more: http://dreamject.org/dreamjects/esi/ */
 	html {font-size: /*[[fs]]*/ !important; }
 		* {font-size: inherit !important; }
 	html {line-height: /*[[lh]]*/; }
@@ -8,12 +13,12 @@
 	a {text-decoration: none !important; }		
 	esi-widest-text-block {max-width: /*[[mw]]*/ !important; }
 	esi-text-block {width: xrem !important; height: yrem !important; }	
-	h1 {font-size: 1.7rem !important; font-size: calc(1.4375rem + 8px) !important;
-			line-height: 120% !important; line-height: calc(1.4375rem * 1.052 + 8px * 1.052 + 5px) !important; }
+	h1 {font-size: 1.7rem !important; font-size: calc(1.43rem + 8px) !important;
+			line-height: 120% !important; line-height: calc(1.43rem * 1.052 + 8px * 1.052 + 5px) !important; }
 	h2 {font-size: 1.4rem !important; font-size: calc(1.25rem + 4px) !important;
 			line-height: 125% !important; line-height: calc(1.25rem * 1.052 + 1.052 * 4px + 5px) !important; }
-	h3 {font-size: 1.17rem !important; font-size: calc(1.0625rem + 2px) !important;
-			line-height: 130% !important; line-height: calc(1.0625rem * 1.052 + 2px * 1.052 + 5px) !important; }
-	sup, sub{line-height: 1rem !important; font-size: 0.6875rem !important; font-size: calc(1rem - 5px) !important; }
-	small, xx-small,	x-small, smaller, h5, h6 {font-size: 0.9rem !important; font-size: calc(0.95rem - 1px) !important; }
+	h3 {font-size: 1.17rem !important; font-size: calc(1.06rem + 2px) !important;
+			line-height: 130% !important; line-height: calc(1.06rem * 1.052 + 2px * 1.052 + 5px) !important; }
+	sup, sub{font-size: 0.68rem !important; font-size: calc(1rem - 5px) !important; line-height: 1rem !important; }
+	small, xx-small, x-small, smaller, h5, h6 {font-size: 0.9rem !important; font-size: calc(0.95rem - 1px) !important; }
 /*ESI core end*/
