@@ -21,4 +21,6 @@
 	a {text-decoration: none !important; }	
 	a {color: /*[[lc]]*/ /*!important*/}
 	esi-widest-text-block {max-width: /*[[mw]]*/ !important; } /*if the page is too width*/
+	esi-bgcolor {background: /*[[bgc]]*/ !important;}
+	esi-font-color {color: /*[[fc]]*/}
 /*ESI core end*/
